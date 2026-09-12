@@ -1,1 +1,87 @@
+# Inheritance Tax as a Bunching Mitigation Device in a Lifetime Comprehensive Income Tax: A Reinterpretation Based on the Haig-Simons Model and "Consumption-Applicability"
 
+**Toyomu Yuasa**
+
+Professor, Faculty of Economics, Nanzan University
+
+*Research Note*
+
+---
+
+### Abstract
+
+This research note re-examines the role of the inheritance tax in Japan from the viewpoint of tax theory. Traditionally, inheritance tax has often been justified by social policy goals, such as preventing the concentration of wealth. However, this paper proposes an alternative view: the inheritance tax functions as an adjustment device that mitigates "bunching" within a lifetime comprehensive income tax framework. By applying the Haig-Simons income concept over an individual's lifetime and utilizing the criterion of "consumption-applicability," this paper provides a unified explanation for deduction rules and compares the Japanese carry-over basis system with the U.S. tax system.
+
+---
+
+### 1. Introduction
+
+In discussions of tax law, inheritance tax and gift tax are often treated as independent taxes on asset transfers. However, this treatment creates recurring debates regarding "double taxation" with income tax.
+
+The main purpose of this note is to position the inheritance tax not as an isolated wealth tax, but as a final settlement mechanism for a comprehensive income tax over a lifetime. Furthermore, by using the standard Haig-Simons framework—especially the boundary between what counts as consumption and what does not—we can clearly explain which deductions are allowed at the time of inheritance.
+
+---
+
+### 2. Philosophical Foundations: Individualism vs. Dynastic Utility
+
+The traditional criticism that inheritance tax constitutes double taxation implicitly assumes a "dynastic utility model." In this model, the family household is viewed as a single, continuing economic unit over generations.
+
+However, modern tax systems are built around the individual as the unit of taxation. Under atomic individualism, each person constitutes a separate taxable unit. The Haig-Simons identity defines income ($I$) as:
+
+$$I = C + \Delta NW$$
+
+where $C$ is consumption during the period and $\Delta NW$ is the change in net worth.
+
+When an individual dies, that individual's economic life and measurement period end. Taxing the accumulated net worth ($\Delta NW$) at death is simply the final settlement of that individual's lifetime income. Simultaneously, when the heir receives the assets, it represents an accession to wealth—an inflow of economic capacity—for a separate individual. Because the tax unit is the individual rather than the family dynasty, taxing this transfer does not violate the principle of single taxation.
+
+---
+
+### 3. Realization Principle and Bunching Mitigation
+
+Under an ideal Haig-Simons tax, all capital gains would be taxed annually on an accrual basis (mark-to-market). However, actual income tax systems adopt the "realization principle" to avoid difficult valuation issues and liquidity problems.
+
+* **Bunching Problem:** Postponing tax until realization causes gains accumulated over many years to be taxed at once, pushing the taxpayer into a higher progressive tax bracket.
+* **Lock-in Effect:** Taxpayers hesitate to sell assets to avoid this sudden tax burden, which distorts the allocation of capital.
+* **Statutory Share Allocation:** Japan's inheritance tax calculates the total tax by hypothetically dividing the estate according to each heir's statutory share (*hōtei sōzoku-bun*). By dividing the tax base into smaller shares—each taxed at its own point on the progressive scale—this mechanism mitigates the bunching problem and smooths the overall progressive burden.
+
+---
+
+### 4. Deductions and "Consumption-Applicability"
+
+By viewing inheritance tax as the final settlement of a lifetime comprehensive income tax, deductions can be explained systematically using the concept of "consumption-applicability" ($C$ vs. non-$C$), rather than relying on civil law or vague social customs.
+
+| Item in Inheritance Tax Law | Traditional View | Lifetime Comprehensive Income View | Treatment |
+| --- | --- | --- | --- |
+| **Debts and Unpaid Taxes** | Obligation under Civil Code | Objective reduction of $\Delta NW$; does not constitute wealth. | **Deductible** |
+| **Funeral Expenses** | Social custom and courtesy | Inevitable cost of ending life; similar to personal medical/casualty deductions. | **Deductible** |
+| **Lifetime Living Expenses** | Non-existent assets at death | Already consumed ($C$) and recognized during life; naturally excluded from $\Delta NW$. | **Not Taxed** |
+| **Add-back of Recent Gifts** | Anti-avoidance measure | Not final consumption, but a temporary transfer to keep net worth in the family. | **Included in Estate** |
+| **Post-Funeral Rites (Hōki)** | Heir's personal obligation | Voluntary private consumption ($C$) chosen by the heir. | **Non-Deductible** |
+| **Unpaid Graves/Altars** | Reflection of tax-exempt assets | Corresponds to tax-exempt property; represents private non-deductible consumption. | **Non-Deductible** |
+
+---
+
+### 5. Comparative Law: Japan vs. the United States
+
+The relationship between income tax and inheritance tax is handled differently in Japan and the United States:
+
+* **United States:** Under IRC §1014, heirs receive a "step-up in basis" to fair market value at death. This permanently erases the accrued capital gains from income taxation, which is why the U.S. estate tax must function as a stand-alone wealth tax.
+* **Japan:** Following the 1953 tax reform, Japan adopted a "carry-over basis" rule (Income Tax Act, Article 60). The heir assumes the decedent's original purchase cost, meaning the unrealized gain remains subject to income tax in the future. In addition, an adjustment is made under Article 39 of the Act on Special Measures Concerning Taxation to avoid excessive burdens.
+
+As a result, Japan's inheritance tax does not need to serve as a proxy for taxing unrealized gains. It functions purely as a device to settle and smooth the lifetime accumulation of net worth.
+
+---
+
+### 6. Concluding Remarks
+
+Reinterpreting the inheritance tax as a bunching mitigation device within a lifetime comprehensive income tax clarifies two points.
+
+First, it resolves the double taxation critique by showing that the tax is simply the terminal settlement of an individual's lifetime net worth under individual-based taxation, not a second tax layered on top of income already taxed within a continuing family unit.
+
+Second, it integrates the income tax and the inheritance tax into a single conceptual framework. The two taxes are not contradictory; rather, the inheritance tax provides the necessary legal technology to reconcile the realization principle with the comprehensive income concept over a full lifespan.
+
+This reframing carries several further implications. Normatively, it shifts the justification for inheritance tax away from redistributive or social-policy grounds—which are politically contingent and vulnerable to the argument that wealth concentration should instead be addressed through other instruments—toward a structural, efficiency-based rationale rooted in the mechanics of realization-based taxation itself. On this view, calls to abolish or sharply curtail the inheritance tax must confront not merely a debate about redistribution, but the more technical question of how bunching and lock-in would otherwise be handled within a lifetime income tax.
+
+The framework also generates a clear prediction, borne out by the comparative analysis in Section 5: the structural necessity of an inheritance tax depends on how a jurisdiction treats unrealized gains at death. Where a step-up in basis extinguishes those gains permanently, as under IRC §1014, the estate tax must carry the full weight of a stand-alone wealth tax. Where a carry-over basis preserves the gains for future taxation, as in Japan, the inheritance tax can remain a narrower bunching-mitigation and settlement device. This suggests that debates over the two taxes cannot be conducted independently of each other: a reform to one (for example, a shift from carry-over to step-up basis) would necessarily change the burden the other must bear.
+
+Several limitations point toward directions for future work. The analysis here treats gifts and add-backs relatively briefly; a fuller account would need to integrate lifetime gift taxation more systematically into the same framework, rather than treating it primarily as an anti-avoidance backstop. Nor does this note address how the statutory-share allocation mechanism interacts with actual (rather than notional) heir-level circumstances, such as differing marginal tax rates or liquidity constraints among heirs, which may cause the smoothing effect to diverge from the ideal case modeled here. Finally, the argument has been developed primarily in comparison with the United States; extending it to other jurisdictions with different realization and basis rules—civil-law systems with forced heirship, for instance—would test the generality of the "consumption-applicability" criterion beyond the Japanese and American contexts. These extensions are left for future research.
