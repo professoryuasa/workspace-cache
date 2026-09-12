@@ -9,20 +9,20 @@ Professor, Faculty of Economics, Nanzan University
 
 ## 1. The Problem
 
-Since 1947, when Japan enacted a comprehensive overhaul of the Income Tax Act adopting the general income tax framework, the predominant view among Japanese tax law scholars has been that the Act is based on the **"comprehensive income concept."** Formulated by economists Robert M. Haig and Henry C. Simons, this idea defines income as:
+Since 1947, when Japan enacted a comprehensive overhaul of the Income Tax Act adopting the general income tax framework, the predominant view among Japanese tax law scholars has been that the Act is grounded in the **"comprehensive income concept."** Formulated by economists Robert M. Haig and Henry C. Simons, this idea defines income as:
 
 > **Income = Increase in Net Wealth + Consumption**
 
-Under this conventional view, Articles 22 and 36 of the Act define "income" expansively: virtually any economic accretion to a taxpayer's net wealth constitutes taxable income. The ten statutory categories of income (interest, dividends, real estate, business, employment, retirement, timber, capital gains, occasional, and miscellaneous income) are widely viewed by scholars as mere technical, computational classifications rather than substantive boundaries of income itself.
+Under this conventional view, Articles 22 and 36 of the Act define "income" expansively: virtually any economic accretion to a taxpayer's net wealth constitutes taxable income. The ten statutory categories of income (interest, dividends, real estate, business, employment, retirement, timber, capital gains, occasional, and miscellaneous income) are widely treated by scholars as mere computational or administrative classifications rather than substantive boundaries of income itself.
 
 However, this research note argues that this standard view does not align with judicial realities.
 
-When examining actual court precedents and tax controversies, judges do **not** simply ask, "Did this person's net wealth increase?" Rather, for the eight core categories, courts consistently evaluate two specific criteria:
+When examining actual court precedents and tax practice, judges do **not** simply ask, "Did this person's net wealth increase?" Rather, for the eight core categories, courts consistently evaluate two specific criteria:
 
 1. Does the gain flow **continuously and repeatedly** from an ongoing, profit-seeking source (such as active employment, an operating business, or revenue-generating assets)?
 2. Does the gain have the nature of **consideration (quid pro quo)** for the provision of labor or services, or for the transfer of property?
 
-These two criteria originate from the classical, narrower doctrine known as the **"source theory"** (*Quellentheorie*). According to this theory, only recurring receipts flowing from a durable, productive source—or gains received in exchange for an economic performance—qualify as income.
+These criteria stem from the classical **"source theory"** (*Quellentheorie*), which is closely intertwined with the historic **"faculty theory"** (*tanzei-ryoku setsu*) championed by public finance scholar Edwin R. A. Seligman. Under this line of thought, only recurring receipts flowing from a durable, productive source—or gains received in exchange for an economic performance—manifest the true economic capacity to contribute to the state.
 
 By analyzing Article 34(1) of the Act (defining "Occasional Income") and judicial decisions governing illicit earnings, this note demonstrates that Japanese income tax law actually operates under a **two-layer structure**:
 
@@ -42,7 +42,7 @@ The Haig-Simons formula does not serve as the direct governing standard across t
 - It provides the boundary line separating **deductible business expenses** (Article 37) from **non-deductible personal consumption** (Article 45).
 
 **Point 3 — The tax treatment of illegal income substantiates this two-layer model.**  
-Judicial treatment of unlawful earnings demonstrates this two-tier system: the comprehensive income concept provides the basis for treating illicit economic enrichments as taxable income in the first place, while the source theory determines the specific category into which those receipts must be classified.
+Judicial treatment of unlawful earnings demonstrates this two-tier system: resolving the paradox of illegal income requires a hybrid mechanism combining the test of "probability of restitution" (Prof. Masakuni Tanaka) with Seligman’s classical "faculty theory" (measuring realized ability to pay at the moment of receipt), while the source theory dictates the statutory classification of the gain.
 
 ---
 
@@ -93,35 +93,61 @@ Specific statutory provisions—such as constructive receipt rules when a sole p
 
 ---
 
-## 5. Test Case: The Taxation of Illegal Income
+## 5. Test Case: The Taxation of Illegal Income and the Limits of Conventional Theories
 
-Illicit gains—such as embezzled funds, bribes, and profits from prohibited commercial activities—provide the clearest evidence of this two-layer model.
+The taxation of illicit gains exposes the fundamental theoretical limits of both the comprehensive income concept and the source theory, demanding a refined, hybrid analytical framework.
 
-### (1) Inadequacy of a Single Theory
+### (1) The Doctrinal Impasse: Why Classical Formulations Fail
 
-- **The comprehensive income concept alone is incomplete:** Asserting that "any accretion to net wealth is taxable" does not determine *which* statutory category an illegal receipt belongs to.
-- **The source theory alone is incomplete:** An overly formal source theory would treat unlawful gains as lacking a legally recognized, valid source, thereby exempting criminals while taxing law-abiding citizens.
+When confronted with criminal gains, traditional doctrines encounter severe conceptual difficulties:
 
-### (2) The Judicial Two-Step Inquiry
+1. **The Circuitous Nature of the Comprehensive Income Concept:**  
+   Under a strict Schanz-Haig-Simons formulation, taxable income is determined by measuring the net accretion to wealth between the beginning and the end of the taxable year ($\Delta \text{Net Wealth} + \text{Consumption}$). However, in predatory crimes such as theft, robbery, or embezzlement, the perpetrator is immediately encumbered by private-law restitutionary liabilities (such as tort damages or unjust enrichment claims held by the victim). Because an unliquidated civil liability exists, attempting to ascertain whether "net wealth" has truly increased by evaluating a balance-sheet comparison at year-end is excessively circuitous (*u-en*) and practically unworkable in tax administration.
 
-Japanese courts resolve illegal income disputes through a structured two-step inquiry:
+2. **The Inherent Narrowness of the Classical Source Theory:**  
+   Conversely, a classical source theory cannot account for criminal acts of **unilateral expropriation** (such as burglary, larceny, or robbery). The source theory comfortably accommodates contract-like, quasi-commercial illegal activities—such as usurious lending (exorbitant interest), prostitution, or illicit drug dealing—because these involve recurring operations, an organized profit-seeking apparatus, and reciprocal consideration (*quid pro quo*). But unilateral predatory crimes lack any productive source or reciprocal exchange, leaving them completely outside the classical source framework.
 
-**Step 1 — Is the gain taxable income at all?** (Comprehensive income concept)  
-As long as the taxpayer has established practical economic dominion and control over funds or property, an accretion to net wealth exists. It constitutes taxable income regardless of whether the transaction is void or punishable under private or criminal law.
+### (2) The Synthesis: Seligman’s Faculty Theory and the "Probability of Restitution"
 
-**Step 2 — Under which statutory category does it fall?** (Source theory)  
-Courts then examine whether the gain arose from a continuous, profit-seeking activity, and whether it was received as consideration for services or performance:
-- If **yes** → it satisfies source-theory requirements and is categorized under one of the core categories (e.g., Business Income).
-- If **no** → it defaults to Article 34(1) as Occasional Income (or Miscellaneous Income if recurring without consideration).
+To resolve this dilemma, a coordinated approach (*awase-waza*) bridging both perspectives is essential:
 
-### (3) Judicial Applications and Precedents
+- **The Standard of "Probability of Restitution" (Prof. Masakuni Tanaka):**  
+  As argued by Professor Masakuni Tanaka (田中 晶国), the determination of whether an illegal receipt constitutes taxable income must hinge on the **probability of restitution** (*hensai no gaizensei*). If the likelihood of the funds being returned to the victim is practically non-existent, the formal existence of a private-law restitutionary claim should not impede immediate taxation.
+- **Seligman’s "Faculty Theory" and Realized Economic Flow:**  
+  Herein lies the distinct advantage of the **faculty theory** (*tanzei-ryoku setsu*) pioneered by Edwin R. A. Seligman. Seligman famously observed that the history of public finance reflects:
+  > *"the evolution of the principle of faculty or ability to pay——the principle that each individual should be held to help the state in proportion to his ability to help himself."*
+  
+  Rather than relying on a cumbersome, balance-sheet comparison of net worth at year-end, Seligman’s framework assesses whether an economic flow has been realized as an actual capacity to command resources—that is, an immediate "ability to help oneself." When it is determined that there is no realistic probability of restitution, the perpetrator acquires immediate, unfettered economic dominion over the proceeds. At that very moment of receipt—without waiting for the close of the taxable year—the gain ripens into taxable **faculty or ability to pay** (*tanzei-ryoku*).
 
-- **Theft and Single Acts of Embezzlement:** When an employee misappropriates employer funds, an undeniable accretion to net wealth occurs. However, the stolen funds lack the character of consideration for labor. Failing the quid-pro-quo requirement of employment income, the funds are classified as **Occasional Income** (or **Miscellaneous Income** if repeated systematically over time).
-- **Taxability of Illegitimate Receipts (Supreme Court, Nov. 9, 1971):** In this foundational decision concerning interest receipts exceeding the statutory ceiling under the Interest Rate Restriction Act, the Supreme Court confirmed that economic gains generated from unlawful and civilly void acts constitute taxable income once they have been practically enjoyed and controlled. Likewise, bribes and kickbacks, while constituting taxable wealth accretions, do not represent legitimate consideration for contractual services and are relegated to **Occasional Income** or **Miscellaneous Income**.
-- **Continuous Unlawful Enterprises (Supreme Court, Jan. 19, 1973):** In a case involving illegal private bookmaking on horse races, the Supreme Court held that where an unlawful activity is carried out continuously, independently, and with profit-seeking intent in exchange for services, it satisfies the criteria of **Business Income**. Consequently, the taxpayer was entitled to deduct the necessary business expenses incurred in operating the illicit enterprise.
+### (3) Judicial Applications and Statutory Categorization
 
-The fact that courts examine continuity and consideration—even in illegal transactions—demonstrates that the source theory continues to control how taxable income is categorized.
+Once the gain is brought within the tax base through this standard of realized faculty, its statutory classification is governed by the two-layer model:
+
+- **Contract-like, Continuous Illicit Enterprises:** Where the activity is conducted repeatedly with profit-seeking intent and proceeds are received as consideration for goods or services (e.g., unauthorized moneylending or illegal private bookmaking on horse races), the criteria of the source theory are fully met. In its decision of **January 19, 1973**, the Supreme Court held that revenue from an illegal bookmaking enterprise constituted **Business Income**, thereby permitting ordinary deductible business expenses.
+- **Unlawful Receipts and Expropriations (Supreme Court, Nov. 9, 1971):** In its landmark decision on interest exceeding statutory limits under the Interest Rate Restriction Act, the Supreme Court affirmed that unlawful gains over which a taxpayer exercises de facto economic control constitute taxable income. When applied to unilateral crimes (theft, robbery, or one-off embezzlement), because the receipt lacks the reciprocal consideration required for employment or business income, it defaults under Article 34(1) to **Occasional Income** (or **Miscellaneous Income** if repeated continuously without consideration).
+
+The judicial inquiry into whether an unlawful gain was "continuous" and whether it constituted "quid pro quo consideration" confirms that the source theory remains the primary mechanism for statutory categorization, while immediate taxability is established by evaluating realized faculty.
 
 ---
 
-## 6. Conclusion: A Two-Layer Model of Japanese Income Tax Law
+## 6. Conclusion: A Two-Layer Model of Japanese Income Tax 
+LawLAYER 1 — Core Categories (Substantively Governed by the Source Theory)
+Categories: Interest, Dividends, Real Estate, Business, Employment,
+Retirement, Timber, Capital Gains
+Criteria: Is there continuity/recurrence? Is it consideration (quid pro quo)?
+Scope: Ordinary market transactions and contract-like illegal enterprises
+(e.g., usurious interest, illegal bookmaking businesses)
+
+
+If criteria are NOT met (Unilateral Expropriations / Residual Gains)
+
+LAYER 2 — Gap-Filling Categories (Governed by the Comprehensive Income Concept)
+Categories: Occasional Income, Miscellaneous Income,
+and structural rules separating production costs from consumption
+Criteria: Is there immediate faculty/ability to pay (no probability of restitution)?
+Has spendable economic capacity been realized?
+Scope: (1) Captures non-recurring windfalls and unilateral crimes
+(e.g., larceny, robbery, bribes, one-off embezzlement)
+(2) Denies deduction for personal living expenses
+
+Article 34(1) demonstrates that the source theory was never abandoned by the Japanese legislature. It remains the governing doctrinal test for the eight core categories of income. The comprehensive income concept performs a vital supporting role: functioning as a statutory safety net for extraordinary receipts and policing the boundary between deductible business expenses and non-deductible consumption.
